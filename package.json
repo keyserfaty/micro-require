@@ -1,0 +1,23 @@
+{
+  "name": "micro-require",
+  "version": "1.0.0",
+  "description": "A micro require.js for libraries and small apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keyserfaty/micro-require.git"
+  },
+  "keywords": [
+    "require",
+    "amd"
+  ],
+  "author": "@keyserfaty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keyserfaty/micro-require/issues"
+  },
+  "homepage": "https://github.com/keyserfaty/micro-require#readme"
+}
