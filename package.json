@@ -1,6 +1,6 @@
 {
   "name": "micro-require",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A micro require.js for libraries and small apps",
   "main": "index.js",
   "scripts": {
