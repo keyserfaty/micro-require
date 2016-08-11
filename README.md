@@ -1,6 +1,6 @@
 micro-require
 ===================
-[![npm version](https://badge.fury.io/js/micro-require.svg)](https://badge.fury.io/js/vanilla-juice) [![npm](https://img.shields.io/npm/dt/micro-require.svg?maxAge=2592000)]()
+[![npm version](https://badge.fury.io/js/micro-require.svg)](https://badge.fury.io/js/vanilla-juice) [![npm](https://img.shields.io/npm/dt/micro-require.svg?maxAge=2592000)](https://github.com/keyserfaty/micro-require)
 
 **micro-require** is a small require library to be used in libraries and pure js projects.
 
